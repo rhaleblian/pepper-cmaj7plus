@@ -1,8 +1,7 @@
 Plays an extended Cmaj7 chord on the Bela PEPPER.
 
 You could use this to test your knobs.
-Knobs 1 through 7 control the volume of each note.
-Knob 8 controls the overall volume.
+Knobs 1 through 8 control the volume of each note.
 
 Clone this repo into ~/Bela/projects:
 
