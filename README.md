@@ -1,4 +1,4 @@
-Plays an extended Cmaj7 chord on the Bela Pepper.
+Plays an extended Cmaj7 chord on the Bela PEPPER.
 
 You could use this to test your knobs.
 Knobs 1 through 7 control the volume of each note.
