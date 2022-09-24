@@ -1,3 +1,5 @@
+# cmaj7plus
+
 Plays an extended Cmaj7 chord on the Bela PEPPER.
 
 ![screenshot](snapshot.png)
